@@ -14,4 +14,4 @@ JSON(Javascript Object Notation) adalah sebuah format pertukaran data tekstual y
 
 REST API itu client/server dimana server dapat menyediakan resources, dan client mengakses atau menampilkan resources tersebut.
 
-Resources tersebut dipresentasikan dalam bentuk format teks JSON.
+Resources tersebut dipresentasikan dalam bentuk formatt teks JSON.
